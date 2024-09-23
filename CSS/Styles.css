@@ -1,12 +1,11 @@
 
 *{
   box-sizing:border-box;
-  margin: 0;
-  padding: 0;
 }
+
 div.container{
   border: 5px solid #bc1212;
-  width: 100%;
+  width: 80%;
   margin: 0 auto;
 }
 
