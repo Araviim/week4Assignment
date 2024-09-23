@@ -6,8 +6,8 @@
 }
 div.container{
   border: 5px solid #bc1212;
-  width: 80%;
-  margin: 0 auto 0 auto;
+  width: 100%;
+  margin: 0 auto;
 }
 
 header{
